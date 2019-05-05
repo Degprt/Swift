@@ -1,7 +1,7 @@
 import UIKit
 
 enum engineState {
-    case start, stop    
+    case start, stop        
 }
 
 enum windowState {
